@@ -11,3 +11,4 @@ git --oneline
 git --preety
 git config --global user.name
 git config --global user.email
+git checkout -b
